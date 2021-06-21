@@ -1,4 +1,7 @@
 /* ALL PAGE */
+.center{
+        text-align: center;
+}
 body{
     background-color: #0E0E0E;
     /* font-family: "Times New Roman", Times, serif; */
@@ -89,7 +92,7 @@ footer h2.subtitle{
 }
 /* FOOTER'S IMAGE PARAGRAPH'S SIZE FOR BACKGROUND IMAGES */
 .footerImage{
-    width: 250px;
+    /* width: 250px; */
     height: 180px;
     font-size: 1.5em;
     margin: 10px;
@@ -99,8 +102,10 @@ footer h2.subtitle{
 /* BACKGROUND IMAGES URL */
 #firstFooterPic{
     background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
 }
 #secondFooterPic{
     background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
 }
 /* /FOOTER */
