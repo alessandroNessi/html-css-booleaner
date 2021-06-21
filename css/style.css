@@ -1,4 +1,4 @@
-
+/* ALL PAGE */
 body{
     background-color: #0E0E0E;
     font-family: "Times New Roman", Times, serif;
@@ -9,6 +9,7 @@ body{
     background-color: white;
     padding-bottom: 50px;
 }
+/* ALL PAGE */
 
 /* HEADER */
 .pageHeader{
@@ -37,10 +38,12 @@ h1{
 h2{
     margin: 0px;
 }
+/* SUBTITLE USED FOR TITLE AND FOOTER SECTION */
 .subtitle{
     color: #858585;
     margin-bottom: 25px;
 }
+
 .lightBlue{
     color: #20A9E5;
 }
@@ -49,6 +52,7 @@ h2{
         height: 380px;
     }
 /* /PICS */
+/* COMMENT BELOW PICS */
 .comment{
     margin-top: 0px;
     font-size: 0.8em;
@@ -60,12 +64,15 @@ h2{
 .white{
     color: white;
 }
+/* TABLE HEADER COLOR */
 .tableHeader{
     background-color: #20A9E5;
 }
+/* FISRT TWO COLUMN WIDTH */
 .smallColumn{
     width: 200px;
 }
+/* LIGHT BLUE TABLE BACKGROUND */
 .tableBackground{
     background-color: #B1E5F2;
 }
@@ -78,6 +85,7 @@ h2{
 footer h2.subtitle{
     margin-bottom: 0px;
 }
+/* FOOTER'S IMAGE PARAGRAPH'S SIZE FOR BACKGROUND IMAGES */
 .footerImage{
     width: 250px;
     height: 180px;
@@ -86,6 +94,7 @@ footer h2.subtitle{
     background-position: center;
     padding: 10px;
 }
+/* BACKGROUND IMAGES URL */
 #firstFooterPic{
     background-image: url(../img/monitor.jpg);
 }
