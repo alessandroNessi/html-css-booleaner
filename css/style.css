@@ -7,6 +7,7 @@ body{
     width: 60%;
     margin:0 auto;
     background-color: white;
+    padding-bottom: 50px;
 }
 
 /* HEADER */
@@ -49,16 +50,18 @@ h2{
     }
 /* /PICS */
 .comment{
-    margin: 0px;
+    margin-top: 0px;
     font-size: 0.8em;
 }
 .black{
     color: black;
 }
 /* /SUBTITLE */
+.white{
+    color: white;
+}
 .tableHeader{
     background-color: #20A9E5;
-    color: white;
 }
 .smallColumn{
     width: 200px;
@@ -70,3 +73,23 @@ h2{
     background-color: yellow;
 }
 /* /MAIN */
+
+/* FOOTER */
+footer h2.subtitle{
+    margin-bottom: 0px;
+}
+.footerImage{
+    width: 250px;
+    height: 180px;
+    font-size: 1.5em;
+    margin: 10px;
+    background-position: center;
+    padding: 10px;
+}
+#firstFooterPic{
+    background-image: url(../img/monitor.jpg);
+}
+#secondFooterPic{
+    background-image: url(../img/graph.jpg);
+}
+/* /FOOTER */
