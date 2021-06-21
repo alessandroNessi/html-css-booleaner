@@ -43,4 +43,13 @@ h2{
 }
 /* /SUBTITLE */
 
+/* PICS */
+    .pics div img{
+        height: 380px;
+    }
+    .pics p{
+        margin: 0px;
+    }
+/* /PICS */
+
 /* /MAIN */
