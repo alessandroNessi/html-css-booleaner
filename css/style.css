@@ -1,5 +1,7 @@
+
 body{
     background-color: #0E0E0E;
+    font-family: "Times New Roman", Times, serif;
 }
 .container{
     width: 60%;
@@ -41,15 +43,21 @@ h2{
 .lightBlue{
     color: #20A9E5;
 }
-/* /SUBTITLE */
-
 /* PICS */
-    .pics div img{
+    .pics img{
         height: 380px;
     }
-    .pics p{
-        margin: 0px;
-    }
 /* /PICS */
+.comment{
+    margin: 0px;
+    font-size: 0.8em;
+}
+.black{
+    color: black;
+}
+/* /SUBTITLE */
+
+
+
 
 /* /MAIN */
