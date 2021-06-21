@@ -1,0 +1,15 @@
+.container{
+    width: 60%;
+    margin:0 auto;
+}
+.pageHeader{
+    height: 100px;
+    background-size:400px;
+    background-color:#4EA0FF;
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+}
+#logo{
+    margin: 40px 10px;
+    height: 50px;
+}
