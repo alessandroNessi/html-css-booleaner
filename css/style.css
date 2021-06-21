@@ -56,8 +56,17 @@ h2{
     color: black;
 }
 /* /SUBTITLE */
-
-
-
-
+.tableHeader{
+    background-color: #20A9E5;
+    color: white;
+}
+.smallColumn{
+    width: 200px;
+}
+.tableBackground{
+    background-color: #B1E5F2;
+}
+.yellowBackground{
+    background-color: yellow;
+}
 /* /MAIN */
