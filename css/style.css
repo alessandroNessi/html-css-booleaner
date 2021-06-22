@@ -70,8 +70,12 @@ h2{
     color: white;
 }
 /* TABLE HEADER COLOR */
+table{
+    border-spacing: 0px;
+}
 .tableHeader{
     background-color: #20A9E5;
+    text-align: left;
 }
 /* FISRT TWO COLUMN WIDTH */
 .smallColumn{
@@ -92,11 +96,11 @@ footer h2.subtitle{
 }
 /* FOOTER'S IMAGE PARAGRAPH'S SIZE FOR BACKGROUND IMAGES */
 .footerImage{
-    /* width: 250px; */
-    height: 180px;
+    width: 250px;
+                              
     font-size: 1.5em;
     margin: 10px;
-    /* background-position: center; */
+    background-position: center;
     padding: 10px;
 }
 /* BACKGROUND IMAGES URL */
