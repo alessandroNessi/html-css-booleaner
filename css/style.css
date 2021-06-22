@@ -1,9 +1,9 @@
 /* ALL PAGE */
-.center{
+/* .center{
         text-align: center;
-}
+} */
 body{
-    background-color: #0E0E0E;
+    /* background-color: #0E0E0E; */
     /* font-family: "Times New Roman", Times, serif; */
     font-family: 'Merriweather', serif;
 }
@@ -96,7 +96,7 @@ footer h2.subtitle{
     height: 180px;
     font-size: 1.5em;
     margin: 10px;
-    background-position: center;
+    /* background-position: center; */
     padding: 10px;
 }
 /* BACKGROUND IMAGES URL */
